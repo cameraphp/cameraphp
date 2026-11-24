@@ -14,6 +14,12 @@ I build reliable backend integrations and AI workflows, supported by independent
 - **Data-platform engineering** — validation, quarantine, deduplication, and read-only analytics, with a local-first GCP reference architecture.
 - **Web and platform hardening** — Linux, Docker, PHP/Apache, Nginx, proxy boundaries, backup verification, and rollback exercises.
 
+## Recent client work
+
+**SaaS technical audit — November 2026:** completed a scoped client engagement with a structured assessment and clear recommendations for next steps. Client feedback on Upwork highlighted the usefulness of the audit and the clarity of the guidance; client identity and private project details remain confidential.
+
+[Experience & CV](https://solidscripts.io/en/experience-cv/) · [Upwork profile](https://www.upwork.com/freelancers/cameraphp)
+
 ## Selected work
 
 | Project | What it demonstrates |
