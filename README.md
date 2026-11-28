@@ -33,6 +33,8 @@ I build reliable backend integrations and AI workflows, supported by independent
 
 ### More engineering labs
 
+- [Coding Agent Orchestration Lab](https://github.com/cameraphp/coding-agent-orchestration-lab): Python/SQLite coordination of mock patches through Docker verification, digest-bound approval checks, serial Git integration, and crash recovery; automated demo approvals are simulated and the human workflow is unverified.
+- [Snowflake Cortex Agent Lab](https://github.com/cameraphp/snowflake-cortex-agent-lab): Python supply-chain reference with synthetic data, tested local MCP, and native artifacts targeting Cortex Analyst, Search, and Agents; live Snowflake/Cortex validation is pending.
 - [Interactive Contradiction Resolution Lab](https://github.com/cameraphp/interactive-contradiction-resolution-lab): deterministic structured claims, exact proposed changes, human approval, and audit; no live model extraction.
 - [LLM Eval Regression Lab](https://github.com/cameraphp/llm-eval-regression-lab): deterministic offline regression gates for structured outputs and citations; not code-behavior evaluation or real-model benchmarking.
 - [AI COO Real Estate Lab](https://github.com/cameraphp/ai-coo-real-estate-lab): synthetic AI operations with a human approval gate and no external side effects.
